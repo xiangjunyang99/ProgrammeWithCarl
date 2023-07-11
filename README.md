@@ -8,7 +8,7 @@ Blog contains:
 
 
 Daily blogs about programming progress [DailyCheckIn](https://docs.google.com/spreadsheets/d/1QZh809WUh1z5aApLKU580eqrq7hPouT_EFsYt-egZ_o/edit#gid=0)
-- [Day1_07122023Blog](https://github.com/xiangjunyang99/ProgrammeWithCarl/blob/main/Day1_07122023)
+- [Day1_07122023Blog](https://github.com/xiangjunyang99/ProgrammeWithCarl/blob/main/Day1_07122023Array%7CLC704%7CLC27.md)
 - [Day2_07132023Blog](https://github.com/xiangjunyang99/ProgrammeWithCarl/blob/main/Day2_07132023)
 - [Day3_07142023Blog]
 - [Day4_07152023Blog]
