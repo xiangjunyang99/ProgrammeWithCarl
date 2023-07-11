@@ -7,7 +7,7 @@ Blog contains:
 5. **Gains from the learning process and record your time spent**
 
 
-Daily blogs about programming progress[DailyCheckIn](https://docs.google.com/spreadsheets/d/1QZh809WUh1z5aApLKU580eqrq7hPouT_EFsYt-egZ_o/edit#gid=0)
+Daily blogs about programming progress [DailyCheckIn](https://docs.google.com/spreadsheets/d/1QZh809WUh1z5aApLKU580eqrq7hPouT_EFsYt-egZ_o/edit#gid=0)
 - [Day1_07122023Blog](https://github.com/xiangjunyang99/ProgrammeWithCarl/blob/main/Day1_07122023)
 - [Day2_07132023Blog](https://github.com/xiangjunyang99/ProgrammeWithCarl/blob/main/Day2_07132023)
 - [Day3_07142023Blog]
