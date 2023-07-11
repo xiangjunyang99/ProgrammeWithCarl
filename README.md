@@ -1,10 +1,10 @@
 # ProgrammeWithCarl
 Blog contains:
-**Link of articles and videos**
-**Your first thought when read the problem**
-**Your thought after reading the articles**
-**The difficulties you encountered through solving**
-**Gains from the learning process and record your time spent**
+1. **Link of articles and videos**
+2. **Your first thought when read the problem**
+3. **Your thought after reading the articles**
+4. **The difficulties you encountered through solving**
+5. **Gains from the learning process and record your time spent**
 
 
 Daily blogs about programming progress
