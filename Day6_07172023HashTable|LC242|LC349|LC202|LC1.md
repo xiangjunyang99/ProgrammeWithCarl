@@ -44,17 +44,17 @@ Last, we judge if the hashtable array contains no numbers, which means the two s
 Given two integer arrays nums1 and nums2, return an array of their intersection. 
 Each element in the result must be unique and you may return the result in any order.
 
-        table = [0] * 1005
-        res = []
-        for i in nums1:
-            table[i] += 1
-
-        for i in nums2:
-            if table[i] != 0:
-                res.append(i)
-                table[i] = 0
+                table = [0] * 1005
+                res = []
+                for i in nums1:
+                    table[i] += 1
         
-        return res
+                for i in nums2:
+                    if table[i] != 0:
+                        res.append(i)
+                        table[i] = 0
+                
+                return res
 
 We are given two arrays this time. First we initiate an array of size 1005 for traversal purpose and a res array to contain the result.
 Then we traverse the first array and document the element to the corresponding position at table.
@@ -68,20 +68,20 @@ Lastly, return res list, that's the intersection.
 ## [LeetCode 202 - Happy Number](https://leetcode.com/problems/happy-number/)
 [LC202Article](https://programmercarl.com/0202.%E5%BF%AB%E4%B9%90%E6%95%B0.html)
 
-class Solution:
-    def isHappy(self, n: int) -> bool:
-        record = []
-        while n not in record:
-            record.append(n)
-            new_num = 0
-            n_str = str(n)
-            for i in n_str:
-                new_num += int(i)**2
-            if new_num == 1:
-                return True
-            else:
-                n = new_num      
-        return False
+                class Solution:
+                    def isHappy(self, n: int) -> bool:
+                        record = []
+                        while n not in record:
+                            record.append(n)
+                            new_num = 0
+                            n_str = str(n)
+                            for i in n_str:
+                                new_num += int(i)**2
+                            if new_num == 1:
+                                return True
+                            else:
+                                n = new_num      
+                        return False
 
 
 The main point of the question is similar to LC 349 but with a Happy Number shell.
