@@ -12,8 +12,11 @@ Hashtable, 242, 349. 202, 1.
 [LC242Article](https://www.programmercarl.com/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.html#_242-%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D)
 
 class Solution:
+
     def isAnagram(self, s: str, t: str) -> bool:
+    
         record = [0]*26
+        
         for i in s:
             record[ord(i)-ord("a")] += 1
 
