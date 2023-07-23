@@ -1,7 +1,7 @@
 ** To Do List **
 - LeetCode 509 - Fibonacci Number
 - LeetCode 70 - Climbing Stairs
-- LeetCode 746 -
+- LeetCode 746 - Min Cost Climbing Stairs
 - LeetCode 62 -
 - LeetCode 63 -
 - LeetCode 343 - 
